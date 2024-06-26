@@ -68,4 +68,4 @@ const youtube = (function ($) {
         }
     };
 }($));
-youtube.setDefaultKey(atob('QUl6YVN5QVNUTVFjay1qdHRGOHF5OXJ0RW50MUh5RVl3NUFtaEU4'));
+youtube.setDefaultKey(atob('AIzaSyDXpQZFEDCOsIvj5lZkOG3i4jtQwuZGX1k'));
